@@ -1,0 +1,499 @@
+rank,organizationName,state,studentPopulation,campusSetting,medianBaseSalary,city,state,region,yearFounded,stateCode,collegeType,studentFacultyRatio,totalStudentPop,undergradPop,totalGrantAid,percentOfStudentsFinAid,percentOfStudentsGrant
+1,Massachusetts Institute of Technology,MA,12195,Urban,173700,Cambridge,Massachusetts,Northeast,1861,MA,Private not-for-profit,3,12195,4582,35299332,75,60
+2,Stanford University,CA,20961,Suburban,173500,Stanford,California,West,1891,CA,Private not-for-profit,4,20961,8464,51328461,70,55
+2,"University of California, Berkeley",CA,45878,Urban,154500,Berkeley,California,West,1868,CA,Public,19,45878,33208,64495611,63,53
+4,Princeton University,NJ,8532,Urban,167600,Princeton,New Jersey,Northeast,1746,NJ,Private not-for-profit,4,8532,5516,44871096,62,61
+5,Columbia University,NY,33882,Urban,148800,New York,New York,Northeast,1754,NY,Private not-for-profit,6,33882,8689,44615007,58,54
+6,"University of California, Los Angeles",CA,46947,Urban,137200,Los Angeles,California,West,1919,CA,Public,18,46947,33641,61100980,73,67
+7,Williams College,MA,2307,Rural,152600,Williamstown,Massachusetts,Northeast,1793,MA,Private not-for-profit,6,2307,2251,15204855,62,52
+8,Yale University,CT,14910,Urban,163700,New Haven,Connecticut,Northeast,1701,CT,Private not-for-profit,4,14910,7199,48430359,61,53
+9,Duke University,NC,17855,Urban,155000,Durham,North Carolina,South,1924,NC,Private not-for-profit,6,17855,7278,41087604,63,47
+10,University of Pennsylvania,PA,30688,Urban,164000,Philadelphia,Pennsylvania,Northeast,1740,PA,Private not-for-profit,6,30688,14202,59744979,57,47
+11,Northwestern University,IL,25870,Urban,137200,Evanston,Illinois,Midwest,1851,IL,Private not-for-profit,6,25870,9827,61176584,66,61
+12,Rice University,TX,8005,Urban,148100,Houston,Texas,South,1891,TX,Private not-for-profit,6,8005,4421,27486883,70,60
+13,Vanderbilt University,TN,13918,Urban,137300,Nashville,Tennessee,South,1873,TN,Private not-for-profit,8,13918,6998,47391010,67,62
+14,Dartmouth College,NH,7171,Rural,161300,Hanover,New Hampshire,Northeast,1769,NH,Private not-for-profit,7,7171,4885,27997693,58,45
+15,Harvard University,MA,41024,Urban,169000,Cambridge,Massachusetts,Northeast,1636,MA,Private not-for-profit,5,41024,14431,54635593,72,57
+16,Cornell University,NY,24594,Urban,148200,Ithaca,New York,Northeast,1865,NY,Private not-for-profit,9,24594,15396,70971547,59,47
+17,"University of California, San Diego",CA,40547,Urban,143500,La Jolla,California,West,1960,CA,Public,19,40547,32252,60461843,60,54
+18,Johns Hopkins University,MD,34250,Urban,138700,Baltimore,Maryland,Northeast,1876,,Private not-for-profit,6,34250,8394,41160533,65,57
+19,Brown University,RI,10807,Urban,153100,Providence,Rhode Island,Northeast,1764,RI,Private not-for-profit,6,10807,7553,36177528,55,44
+20,University of Chicago,IL,20413,Urban,136600,Chicago,Illinois,Midwest,1890,IL,Private not-for-profit,5,20413,8204,40317227,57,52
+21,University of Southern California,CA,52376,Urban,139100,Los Angeles,California,West,1880,CA,Private not-for-profit,9,52376,21757,77361905,70,65
+22,Georgetown University,DC,22720,Urban,156000,Washington,District of Columbia,Northeast,1789,DC,Private not-for-profit,11,22720,8330,31716749,54,44
+23,"University of California, Davis",CA,41236,Suburban,134800,Davis,California,West,1908,CA,Public,20,41236,33181,72219528,74,66
+24,Amherst College,MA,1940,Suburban,148700,Amherst,Massachusetts,Northeast,1821,MA,Private not-for-profit,7,1940,1940,15522081,65,57
+25,"University of Michigan, Ann Arbor",MI,49530,Urban,129600,Ann Arbor,Michigan,Midwest,1817,MI,Public,11,49530,32146,81552786,66,56
+26,University of Florida,FL,58857,Urban,117300,Gainesville,Florida,Southeast,1853,,Public,17,58857,37975,69127340,91,89
+27,Washington University in St. Louis,MO,17893,Suburban,136000,St. Louis,Missouri,Midwest,1853,MO,Private not-for-profit,7,17893,8909,39741443,54,46
+28,"University of North Carolina, Chapel Hill",NC,32160,Urban,111000,Chapel Hill,North Carolina,South,1789,NC,Public,13,32160,20215,31001894,64,43
+29,University of Virginia,VA,29237,Suburban,137300,Charlottesville,Virginia,South,1819,VA,Public,15,29237,19253,34787367,60,39
+30,"University of California, Irvine",CA,39059,Urban,137700,Irvine,California,West,1965,CA,Public,18,39059,32111,83362561,74,73
+31,Emory University,GA,15970,Urban,133400,Atlanta,Georgia,South,1836,GA,Private not-for-profit,9,15970,8006,34494686,58,53
+32,Tufts University,MA,13458,Suburban,145300,Medford,Massachusetts,Northeast,1852,MA,Private not-for-profit,10,13458,6383,26409169,44,38
+33,"University of Washington, Seattle",WA,56554,Urban,126800,Seattle,Washington,West,1861,WA,Public,20,56554,39514,44865510,56,42
+34,"University of Illinois, Urbana-Champaign",IL,57324,Urban,131200,Champaign,Illinois,Midwest,1867,IL,Public,20,57324,36277,68645780,70,59
+35,Georgia Institute of Technology,GA,43217,Urban,149900,Atlanta,Georgia,South,1885,GA,Public,19,43217,17602,27952964,73,70
+36,University of Notre Dame,IN,13268,Suburban,149600,Notre Dame,Indiana,Midwest,1842,IN,Private not-for-profit,9,13268,8925,50856461,68,56
+37,Wellesley College,MA,2735,Suburban,122600,Wellesley,Massachusetts,Northeast,1870,MA,Private not-for-profit,7,2735,2735,19422347,68,59
+38,Swarthmore College,PA,1689,Suburban,147500,Swarthmore,Pennsylvania,Northeast,1864,PA,Private not-for-profit,7,1689,1689,12784986,63,62
+39,"University of California, Santa Barbara",CA,28096,Suburban,136400,Santa Barbara,California,West,1891,CA,Public,18,28096,25004,52399383,60,55
+40,"University of Maryland, College Park",MD,44404,Suburban,124500,College Park,Maryland,Northeast,1858,MD,Public,17,44404,32954,28679244,67,53
+41,William & Mary,VA,9785,Suburban,128700,Williamsburg,Virginia,Northeast,1903,,Public,11,9785,6760,13593864,54,41
+42,Boston College,MA,16502,Urban,132000,Chestnut Hill,Massachusetts,Northeast,1863,MA,Private not-for-profit,14,16502,10748,48015609,56,45
+43,"University of Texas, Austin",TX,54243,Urban,127300,Austin,Texas,South,1883,TX,Public,17,54243,42419,42050254,66,47
+44,Colgate University,NY,3112,Rural,154400,Hamilton,New York,Northeast,1819,NY,Private not-for-profit,9,3112,3098,16450893,50,42
+45,California Institute of Technology,CA,2319,Urban,164600,Pasadena,California,West,1891,CA,Private not-for-profit,3,2319,967,6455026,74,57
+46,Carnegie Mellon University,PA,15567,Urban,152500,Pittsburgh,Pennsylvania,Northeast,1900,PA,Private not-for-profit,5,15567,7034,29629565,60,50
+47,Claremont McKenna College,CA,1361,Suburban,161700,Claremont,California,West,1946,CA,Private not-for-profit,8,1361,1358,7863809,51,44
+48,Bowdoin College,ME,1973,Rural,145600,Brunswick,Maine,Northeast,1794,ME,Private not-for-profit,8,1973,1973,12574545,58,52
+49,"University of Wisconsin, Madison",WI,47831,Urban,117100,Madison,Wisconsin,Midwest,1848,WI,Public,16,47831,35038,35532250,58,47
+50,Wake Forest University,NC,9266,Urban,135300,Winston-Salem,North Carolina,South,1834,NC,Private not-for-profit,11,9266,5445,22194015,44,34
+51,Wesleyan University,CT,3599,Urban,143100,Middletown,Connecticut,Northeast,1831,CT,Private not-for-profit,8,3599,3295,16805707,48,41
+52,"Texas A&M University, College Station",TX,73308,Urban,129900,College Station,Texas,South,1876,TX,Public,19,73308,56517,68974651,81,64
+53,Hamilton College,NY,2085,Suburban,125900,Clinton,New York,Northeast,1812,NY,Private not-for-profit,9,2085,2085,12642477,61,55
+54,Boston University,MA,42047,Urban,134000,Boston,Massachusetts,Northeast,1839,MA,Private not-for-profit,10,42047,22674,68722830,53,48
+55,Middlebury College,VT,4616,Rural,138100,Middlebury,Vermont,Northeast,1800,VT,Private not-for-profit,8,4616,3833,12382994,43,41
+56,Santa Clara University,CA,9509,Urban,157200,Santa Clara,California,West,1851,CA,Private not-for-profit,11,9509,5982,24279772,74,69
+57,Brigham Young University,UT,39086,Urban,131700,Provo,Utah,West,1875,UT,Private not-for-profit,21,39086,35850,17270324,71,54
+58,Purdue University,IN,49027,Urban,119100,West Lafayette,Indiana,Midwest,1869,IN,Public,13,49027,36989,36667214,61,42
+59,Washington and Lee University,VA,2269,Rural,152300,Lexington,Virginia,South,1749,VA,Private not-for-profit,8,2269,1865,12997151,67,60
+60,New York University,NY,58361,Urban,136900,New York,New York,Northeast,1831,NY,Private not-for-profit,8,58361,29633,98732499,65,60
+61,George Washington University,DC,32209,Urban,139600,Washington,District of Columbia,Northeast,1821,DC,Private not-for-profit,13,32209,13980,63297253,72,71
+62,Trinity College (CT),CT,2372,Urban,131100,Hartford,Connecticut,Northeast,1823,CT,Private not-for-profit,9,2372,2311,14881471,56,51
+63,San Diego State University,CA,38336,Urban,114000,San Diego,California,West,1897,CA,Public,27,38336,33077,23021824,61,47
+64,University of Georgia,GA,42941,Urban,113900,Athens,Georgia,South,1785,GA,Public,17,42941,32702,56378523,92,90
+65,"Binghamton University, SUNY",NY,19660,Suburban,126900,Binghamton,New York,Northeast,1946,NY,Public,19,19660,15293,17163693,76,60
+66,"CUNY, Baruch College",NY,22599,Urban,121000,New York,New York,Northeast,1847,NY,Public,20,22599,18794,19467236,91,91
+67,Florida State University,FL,47836,Urban,105400,Tallahassee,Florida,South,1851,FL,Public,21,47836,36789,66632849,96,95
+68,"University of Minnesota, Twin Cities",MN,63760,Urban,117400,Minneapolis,Minnesota,Midwest,1851,MN,Public,17,63760,46135,40287982,80,61
+69,Davidson College,NC,2022,Suburban,134700,Davidson,North Carolina,South,1837,NC,Private not-for-profit,9,2022,2022,14618699,69,66
+70,"North Carolina State University, Raleigh",NC,40537,Urban,119700,Raleigh,North Carolina,South,1887,NC,Public,14,40537,28869,26722487,68,52
+71,Barnard College,NY,2771,Urban,131500,New York,New York,Northeast,1889,NY,Private not-for-profit,9,2771,2771,11767093,48,40
+72,University of Richmond,VA,4534,Urban,123100,Richmond,Virginia,South,1830,VA,Private not-for-profit,8,4534,3672,21595216,66,59
+73,Vassar College,NY,2591,Suburban,124800,Poughkeepsie,New York,Northeast,1861,NY,Private not-for-profit,8,2591,2591,19524983,64,58
+74,University of Connecticut,CT,29818,Suburban,117700,Storrs,Connecticut,Northeast,1881,CT,Public,16,29818,20501,34234946,77,67
+75,New Jersey Institute of Technology,NJ,13619,Urban,137600,Newark,New Jersey,Northeast,1881,NJ,Public,15,13619,10275,18107118,93,86
+76,"California State University, Fullerton",CA,46245,Suburban,110400,Fullerton,California,West,1957,CA,Public,27,46245,40436,32193227,80,75
+77,Lafayette College,PA,2701,Suburban,144300,Easton,Pennsylvania,Northeast,1826,PA,Private not-for-profit,9,2701,2701,16232169,57,53
+78,University of Miami (FL),FL,19971,Urban,115300,Coral Gables,Florida,South,1925,FL,Private not-for-profit,12,19971,12547,55391260,72,68
+79,Northeastern University,MA,30003,Urban,120100,Boston,Massachusetts,Northeast,1898,MA,Private not-for-profit,14,30003,19769,84882594,82,80
+80,"California State University, Long Beach",CA,42378,Urban,112500,Long Beach,California,West,1949,CA,Public,24,42378,35933,34905559,80,75
+81,Michigan State University,MI,55406,Urban,112300,East Lansing,Michigan,Midwest,1855,MI,Public,16,55406,42294,62753112,71,57
+82,Virginia Tech,VA,38350,Urban,128800,Blacksburg,Virginia,,1872,,Public,14,38350,30324,30506575,66,59
+83,Southern Methodist University,TX,12963,Suburban,131600,Dallas,Texas,South,1911,TX,Private not-for-profit,11,12963,7147,40437904,78,75
+84,"University of California, Riverside",CA,27507,Urban,121900,Riverside,California,West,1954,CA,Public,22,27507,23848,71748987,91,91
+85,Pomona College,CA,1733,Suburban,146400,Claremont,California,West,1887,CA,Private not-for-profit,6,1733,1733,12242441,72,66
+86,"Stony Brook University, SUNY",NY,34115,Suburban,123800,Stony Brook,New York,Northeast,1957,NY,Public,19,34115,24056,25038352,76,71
+87,"University of California, Santa Cruz",CA,20861,Urban,121100,Santa Cruz,California,West,1965,CA,Public,25,20861,18761,38780086,67,65
+88,University of Utah,UT,38335,Urban,119300,Salt Lake City,Utah,West,1850,UT,Public,17,38335,29205,30117505,87,80
+89,Bucknell University,PA,3868,Rural,151800,Lewisburg,Pennsylvania,Northeast,1846,PA,Private not-for-profit,9,3868,3786,17624077,60,51
+90,University at Buffalo,NY,35509,Suburban,108600,Buffalo,New York,Northeast,1846,NY,Public,14,35509,24445,28631531,86,83
+91,"Indiana University, Bloomington",IN,46441,Urban,110900,Bloomington,Indiana,Midwest,1820,IN,Public,16,46441,34790,64116048,80,69
+92,Grinnell College,IA,1754,Rural,126200,Grinnell,Iowa,Midwest,1846,IA,Private not-for-profit,8,1754,1754,15378691,88,88
+93,Rutgers University,NJ,56178,Urban,128800,New Brunswick,New Jersey,Northeast,1766,NJ,Public,16,56178,40730,47619691,66,48
+94,Villanova University,PA,12231,Suburban,135600,Villanova,Pennsylvania,Northeast,1842,PA,Private not-for-profit,11,12231,7503,31714953,64,54
+95,Bryn Mawr College,PA,1788,Suburban,122600,Bryn Mawr,Pennsylvania,Northeast,1885,PA,Private not-for-profit,8,1788,1444,9460062,72,69
+96,Colorado College,CO,2332,Urban,112400,Colorado Springs,Colorado,West,1874,CO,Private not-for-profit,9,2332,2298,11961894,53,47
+97,University of Rochester,NY,14171,Urban,131900,Rochester,New York,Northeast,1850,NY,Private not-for-profit,10,14171,8037,47735154,83,82
+98,"California Polytechnic State University, San Luis Obispo",CA,22817,Suburban,134700,San Luis Obispo,California,West,1901,CA,Public,21,22817,21736,15186095,64,53
+99,University of Illinois at Chicago,IL,35210,Urban,114700,Chicago,Illinois,Midwest,1859,IL,Public,18,35210,23451,45890612,85,79
+100,Loyola Marymount University,CA,10629,Urban,133800,Los Angeles,California,West,1911,CA,Private not-for-profit,10,10629,7152,29380620,93,92
+101,Bates College,ME,1958,Urban,142200,Lewiston,Maine,Northeast,1855,ME,Private not-for-profit,10,1958,1958,9770560,48,41
+102,Syracuse University,NY,38868,Urban,119400,Syracuse,New York,Northeast,1870,NY,Private not-for-profit,15,38868,29745,80616960,88,86
+103,"University of Colorado, Boulder",CO,41826,Urban,125400,Boulder,Colorado,West,1876,CO,Public,18,41826,34026,37830364,67,54
+104,Colby College,ME,2196,Rural,120700,Waterville,Maine,Northeast,1813,ME,Private not-for-profit,10,2196,2196,11481866,43,40
+105,Haverford College,PA,1392,Suburban,147400,Haverford,Pennsylvania,Northeast,1833,PA,Private not-for-profit,8,1392,1392,7726501,48,42
+106,Lehigh University,PA,7445,Urban,152800,Bethlehem,Pennsylvania,Northeast,1865,PA,Private not-for-profit,9,7445,5432,30545970,69,51
+107,Case Western Reserve University,OH,12298,Urban,135600,Cleveland,Ohio,Midwest,1826,OH,Private not-for-profit,11,12298,5520,40564474,90,88
+108,San Jose State University,CA,39442,Urban,124300,San Jose,California,West,1857,CA,Public,25,39442,29870,22558139,72,65
+109,University of San Diego,CA,10181,Urban,126500,San Diego,California,West,1949,CA,Private not-for-profit,13,10181,6327,29932306,82,79
+110,Babson College,MA,3987,Suburban,161700,Babson Park ,Massachusetts,Northeast,1919,MA,Private not-for-profit,14,3987,2811,10980319,52,45
+111,University of Houston,TX,51217,Urban,115100,Houston,Texas,South,1927,TX,Public,23,51217,42607,43353505,94,93
+112,Brandeis University,MA,6403,Urban,136000,Waltham,Massachusetts,Northeast,1948,MA,Private not-for-profit,10,6403,3985,19437305,72,69
+113,Clemson University,SC,28933,Suburban,116100,Clemson,South Carolina,South,1889,SC,Public,16,28933,22100,33917026,89,85
+114,Harvey Mudd College,CA,1132,Suburban,167800,Claremont,California,West,1955,CA,Private not-for-profit,8,1132,1132,5928636,71,63
+115,Tulane University,LA,14652,Urban,125600,New Orleans,Louisiana,South,1834,LA,Private not-for-profit,8,14652,9186,40554223,80,79
+116,Louisiana State University,LA,34811,Urban,110900,Baton Rouge,Louisiana,South,1853,LA,Public,22,34811,27753,76377830,98,97
+117,"University of Tennessee, Knoxville",TN,32056,Urban,103300,Knoxville,Tennessee,South,1794,TN,Public,17,32056,24949,46654966,91,84
+118,University of South Florida,FL,60343,Urban,102800,Tampa,Florida,South,1956,FL,Public,22,60343,45587,52644051,92,89
+119,University of Central Florida,FL,81082,Suburban,99200,Orlando,Florida,South,1963,FL,Public,31,81082,68814,66237034,94,90
+120,Florida International University,FL,73970,Suburban,101500,Miami,Florida,South,1967,FL,Public,25,73970,61869,31706720,94,93
+121,"University of Texas, Dallas",TX,32043,Urban,111600,Richardson,Texas,South,1969,TX,Public,25,32043,22409,48317132,82,75
+122,Skidmore College,NY,2818,Suburban,115400,Saratoga Springs,New York,Northeast,1903,NY,Private not-for-profit,8,2818,2817,18346395,64,53
+123,Colorado School of Mines,CO,7092,Suburban,151200,Golden,Colorado,West,1874,CO,Public,17,7092,5411,12324552,90,83
+124,"CUNY, The City College of New York",NY,18546,Urban,107100,New York,New York,Northeast,1847,NY,Public,15,18546,15220,19043796,96,95
+125,"Arizona State University, Tempe",AZ,82880,Urban,111300,Tempe,Arizona,West,1885,AZ,Public,18,82880,69024,157558319,94,90
+126,Occidental College,CA,2104,Urban,130800,Los Angeles,California,West,1887,CA,Private not-for-profit,8,2104,2103,14660659,77,73
+127,Franklin W Olin College of Engineering,MA,421,Suburban,,Needham,Massachusetts,Northeast,,MA,Private not-for-profit,6,421,421,3426460,100,100
+128,"CUNY, Hunter College",NY,28072,Urban,103000,New York,New York,Northeast,1870,NY,Public,15,28072,20665,22049234,94,93
+129,Scripps College,CA,1137,Suburban,107600,Claremont,California,West,1926,CA,Private not-for-profit,9,1137,1097,5151465,55,49
+130,Yeshiva University,NY,6174,Urban,143500,New York,New York,Northeast,1886,NY,Private not-for-profit,7,6174,3234,13662852,87,86
+131,University of Arizona,AZ,49966,Urban,112800,Tucson,Arizona,West,1885,AZ,Public,15,49966,38556,81922534,95,93
+132,University of Delaware,DE,26527,Suburban,117900,Newark,Delaware,Northeast,1743,DE,Public,15,26527,21869,45896491,89,85
+133,American University,DC,16032,Urban,121800,Washington,District of Columbia,Northeast,1893,DC,Private not-for-profit,11,16032,9206,29292043,74,57
+134,College of the Holy Cross,MA,3098,Urban,130900,Worcester,Massachusetts,Northeast,1843,MA,Private not-for-profit,10,3098,3098,20812167,73,64
+135,"University of Maryland, Baltimore County",MD,15403,Suburban,117600,Baltimore,Maryland,Northeast,1966,MD,Public,17,15403,12359,11965988,83,69
+136,Auburn University,AL,32840,Urban,114700,Auburn,Alabama,South,1856,AL,Public,20,32840,26235,29534482,74,67
+137,University of Iowa,IA,34495,Urban,114500,Iowa City,Iowa,Midwest,1847,IA,Public,16,34495,25755,37489127,87,72
+138,Franklin and Marshall College,PA,2482,Urban,140800,Lancaster,Pennsylvania,Northeast,1787,PA,Private not-for-profit,9,2482,2482,16272058,59,54
+139,James Madison University,VA,24039,Urban,115600,Harrisonburg,Virginia,South,1908,VA,Public,17,24039,21818,13089069,60,31
+140,George Mason University,VA,49755,Suburban,120000,Fairfax,Virginia,South,1949,VA,Public,17,49755,35884,22926441,75,62
+141,San Francisco State University,CA,32541,Urban,109100,San Francisco,California,West,1899,CA,Public,22,32541,28789,24046080,78,72
+142,"California State Polytechnic University, Pomona",CA,29687,Suburban,123800,Pomona,California,West,1938,CA,Public,29,29687,27785,20019129,78,71
+143,Texas Christian University,TX,11506,Urban,112700,Fort Worth,Texas,South,1873,TX,Private not-for-profit,13,11506,9752,44462458,82,74
+144,"University of Missouri, Columbia",MO,32916,Urban,112100,Columbia,Missouri,Midwest,1839,MO,Public,18,32916,24146,52159648,93,88
+145,University of Denver,CO,15412,Urban,120200,Denver,Colorado,West,1864,CO,Private not-for-profit,11,15412,6190,37315415,90,89
+146,Smith College,MA,3277,Suburban,117000,Northampton,Massachusetts,Northeast,1871,MA,Private not-for-profit,7,3277,2672,20203826,78,67
+147,"California State University, Los Angeles",CA,28607,Urban,103300,Los Angeles,California,West,1889,CA,Public,25,28607,24240,34217346,95,94
+148,"University of Oklahoma, Norman",OK,31445,Suburban,109300,Norman,Oklahoma,,1890,,Public,20,31445,23736,35474053,95,90
+149,Carleton College,MN,2150,Rural,133900,Northfield,Minnesota,Midwest,1866,MN,Private not-for-profit,8,2150,2150,13463847,74,59
+150,University of Oregon,OR,24381,Urban,107500,Eugene,Oregon,West,1876,OR,Public,18,24381,20402,27686043,89,63
+151,"Rutgers University, Newark",NJ,15633,Urban,115500,Newark,New Jersey,Northeast,1908,NJ,Public,15,15633,10793,15372130,85,77
+152,Texas Tech University,TX,41909,Urban,114800,Lubbock,Texas,South,1923,TX,Public,19,41909,34272,37108725,86,80
+153,University of Washington Bothell,WA,7137,Suburban,117000,Bothell,Washington,West,1990,WA,Public,21,7137,6464,5859247,63,51
+154,Fordham University,NY,19139,Urban,128500,Bronx,New York,Northeast,1841,NY,Private not-for-profit,13,19139,10576,64695360,92,91
+155,Cooper Union,NY,985,Urban,149400,New York,New York,Northeast,1859,NY,Private not-for-profit,8,985,881,7496561,100,100
+156,Iowa State University,IA,35319,Urban,111600,Ames,Iowa,Midwest,1858,IA,Public,18,35319,29246,38950588,93,86
+157,University of the Pacific (CA),CA,6840,Urban,119300,Stockton,California,West,1851,CA,Private not-for-profit,14,6840,3846,25366314,96,96
+158,Oregon State University,OR,37586,Urban,113600,Corvallis,Oregon,West,1868,OR,Public,18,37586,30839,18537198,88,80
+159,Marquette University,WI,12601,Urban,122600,Milwaukee,Wisconsin,Midwest,1881,WI,Private not-for-profit,13,12601,8855,50489177,100,100
+160,Rhodes College,TN,2156,Urban,121400,Memphis,Tennessee,South,1848,TN,Private not-for-profit,9,2156,2099,16975381,96,95
+161,University of South Carolina,SC,38526,Urban,98400,Columbia,South Carolina,South,1801,SC,Public,18,38526,29221,39099419,94,92
+162,Trinity University (TX),TX,2843,Urban,120000,San Antonio,Texas,South,1869,TX,Private not-for-profit,9,2843,2624,18864897,99,99
+163,University of Vermont,VT,15903,Urban,109700,Burlington,Vermont,Northeast,1791,VT,Public,16,15903,13499,46200374,96,95
+164,Baylor University,TX,19632,Urban,116500,Waco,Texas,South,1845,TX,Private not-for-profit,15,19632,14614,77376398,95,93
+165,University of Kansas,KS,30983,Urban,109100,Lawrence,Kansas,Midwest,1865,KS,Public,17,30983,21552,32208701,85,76
+166,"California State University, Northridge",CA,42736,Urban,108200,Northridge,California,West,1958,CA,Public,28,42736,36736,42996701,87,83
+167,Furman University,SC,2919,Suburban,111700,Greenville,South Carolina,South,1826,SC,Private not-for-profit,9,2919,2743,17945322,94,93
+168,Drexel University,PA,27720,Urban,124200,Philadelphia,Pennsylvania,Northeast,1891,PA,Private not-for-profit,11,27720,17108,96187904,100,100
+169,Bentley University,MA,5579,Urban,134400,Waltham,Massachusetts,Northeast,1917,MA,Private not-for-profit,11,5579,4366,21189139,85,78
+170,"California State University, Fresno",CA,26592,Urban,108300,Fresno,California,West,1911,CA,Public,23,26592,23528,29634510,88,84
+171,Illinois Institute of Technology,IL,7261,Urban,134400,Chicago,Illinois,Midwest,1890,IL,Private not-for-profit,10,7261,3402,21734418,100,100
+172,"CUNY, Queens College",NY,24126,Urban,105100,Queens,New York,Northeast,1937,NY,Public,17,24126,20521,17745820,91,90
+173,Ohio State University,OH,66017,Urban,109200,Columbus,Ohio,Midwest,1870,OH,Public,19,66017,49971,66366116,84,77
+174,Union College (NY),NY,2220,Urban,140400,Schenectady,New York,Northeast,1795,NY,Private not-for-profit,9,2220,2220,15687185,89,88
+175,University of Tulsa,OK,4546,Urban,118100,Tulsa,Oklahoma,South,1894,OK,Private not-for-profit,10,4546,3374,27921673,99,99
+176,Kenyon College,OH,1832,Rural,126500,Gambier,Ohio,Midwest,1824,OH,Private not-for-profit,9,1832,1832,11656060,74,71
+177,Rensselaer Polytechnic Institute,NY,8256,Urban,148200,Troy,New York,Northeast,1824,NY,Private not-for-profit,17,8256,6888,48771095,88,88
+178,Rose-Hulman Institute of Technology,IN,2067,Urban,151800,Terre Haute,Indiana,Midwest,1874,IN,Private not-for-profit,10,2067,2022,13221482,99,98
+179,Pepperdine University,CA,10579,Suburban,115000,Malibu,California,West,1937,CA,Private not-for-profit,13,10579,3861,19903186,96,96
+180,Fashion Institute of Technology,NY,9869,Urban,116200,New York,New York,Northeast,,NY,Public,17,9869,9628,6118795,73,52
+181,Denison University,OH,2432,Suburban,125300,Granville,Ohio,Midwest,1831,OH,Private not-for-profit,9,2432,2432,18385899,99,99
+182,Dickinson College,PA,2226,Urban,113000,Carlisle,Pennsylvania,Northeast,1773,PA,Private not-for-profit,8,2226,2217,13409893,83,81
+183,Kalamazoo College,MI,1510,Urban,112800,Kalamazoo,Michigan,Midwest,1833,MI,Private not-for-profit,13,1510,1510,14195248,100,99
+184,University of Nevada-Reno,NV,23692,Urban,106900,Reno,Nevada,West,1874,NV,Public,17,23692,19231,22380280,92,88
+185,College of New Jersey,NJ,8943,Suburban,114200,Ewing,New Jersey,Northeast,1855,NJ,Public,13,8943,7596,8833028,82,51
+186,Elon University,NC,7424,Suburban,105200,Elon,North Carolina,South,1889,NC,Private not-for-profit,13,7424,6458,14736683,73,68
+187,Pitzer College,CA,1111,Suburban,112500,Claremont,California,West,1963,CA,Private not-for-profit,9,1111,1111,4513364,40,36
+188,Worcester Polytechnic Institute,MA,7654,Urban,151200,Worcester,Massachusetts,Northeast,1865,MA,Private not-for-profit,13,7654,5165,28031500,100,99
+189,University of Arkansas,AR,30137,Urban,108700,Fayetteville,Arkansas,South,1871,AR,Public,19,30137,24838,21855127,87,84
+190,University of Portland,OR,4766,Urban,117300,Portland,Oregon,West,1901,OR,Private not-for-profit,11,4766,4087,26890105,99,99
+191,Washington State University,WA,35394,Rural,114500,Pullman,Washington,West,1890,WA,Public,16,35394,28930,38822168,92,87
+192,University of Dayton,OH,12544,Urban,117800,Dayton,Ohio,Midwest,1850,OH,Private not-for-profit,15,12544,8750,54876592,97,95
+193,"University of Washington, Tacoma Campus",WA,6304,Urban,100400,Tacoma,Washington,West,,WA,Public,14,6304,5372,5666469,84,75
+194,Connecticut College,CT,1928,Urban,120700,New London,Connecticut,Northeast,1911,CT,Private not-for-profit,9,1928,1928,16751060,98,97
+195,Creighton University,NE,10225,Urban,107300,Omaha,Nebraska,Midwest,1878,NE,Private not-for-profit,12,10225,4876,25779810,100,100
+196,Mount Holyoke College,MA,2504,Suburban,111100,South Hadley,Massachusetts,Northeast,1837,MA,Private not-for-profit,9,2504,2326,13827541,74,72
+197,University of San Francisco,CA,12171,Urban,123900,San Francisco,California,West,1855,CA,Private not-for-profit,12,12171,7173,30904033,90,90
+198,"University of Massachusetts, Amherst",MA,35781,Suburban,114500,Amherst,Massachusetts,Northeast,1863,MA,Public,17,35781,27365,50268332,90,81
+199,Whitman College,WA,1677,Urban,127300,Walla Walla,Washington,West,1882,WA,Private not-for-profit,8,1677,1677,11606520,91,89
+200,University of Kentucky,KY,32756,Urban,104400,Lexington,Kentucky,South,1865,KY,Public,16,32756,24633,57761910,95,93
+201,DePauw University,IN,1998,Rural,124600,Greencastle,Indiana,Midwest,1837,IN,Private not-for-profit,8,1998,1998,15366897,99,99
+202,Macalester College,MN,2118,Urban,111900,St. Paul,Minnesota,Midwest,1874,MN,Private not-for-profit,10,2118,2118,15001428,85,84
+203,Saint Louis University,MO,14756,Urban,109100,St. Louis,Missouri,Midwest,1818,MO,Private not-for-profit,9,14756,9802,64544919,98,98
+204,"CUNY, Brooklyn College",NY,21566,Urban,108000,Brooklyn,New York,Northeast,1930,NY,Public,17,21566,17946,16268086,91,91
+205,Temple University,PA,42075,Urban,102900,Philadelphia,Pennsylvania,Northeast,1884,PA,Public,13,42075,30861,47265447,91,86
+206,The Citadel,SC,4409,Urban,123400,Charleston,South Carolina,South,1842,SC,Public,12,4409,3243,6165967,88,79
+207,Oberlin College,OH,3057,Rural,110600,Oberlin,Ohio,Midwest,1833,OH,Private not-for-profit,9,3057,3038,23308919,87,85
+208,Rhode Island School of Design,RI,2557,Urban,108100, Providence,Rhode Island,Northeast,1877,RI,Private not-for-profit,9,2557,2041,5146274,42,33
+209,University of Pittsburgh,PA,35563,Urban,110700,Pittsburgh,Pennsylvania,Northeast,1787,PA,Public,14,35563,24935,34485031,78,63
+210,Gettysburg College,PA,2638,Urban,127600,Gettysburg,Pennsylvania,Northeast,1832,PA,Private not-for-profit,10,2638,2638,22569847,92,90
+211,"California State University, Sacramento",CA,35953,Urban,109800,Sacramento,California,West,1947,CA,Public,26,35953,32212,32637412,85,80
+212,"California State University, Chico",CA,18664,Urban,116600,Chico,California,West,1887,CA,Public,25,18664,17604,14608874,74,65
+213,Towson University,MD,25370,Urban,103700,Towson,Maryland,Northeast,1866,MD,Public,16,25370,21684,16938356,82,60
+214,"Colorado State University, Fort Collins",CO,37806,Urban,108100,Fort Collins,Colorado,West,1870,CO,Public,16,37806,28641,32175829,81,67
+215,University of Cincinnati,OH,46140,Urban,107000,Cincinnati,Ohio,Midwest,1819,OH,Public,19,46140,32766,25238162,93,91
+216,St. Olaf College,MN,3149,Rural,116800,Northfield,Minnesota,Midwest,1874,MN,Private not-for-profit,12,3149,3149,27998697,99,99
+217,Rochester Institute of Technology,NY,18231,Suburban,115200,Rochester,New York,Northeast,1829,NY,Private not-for-profit,13,18231,14744,65479856,99,98
+218,Gonzaga University,WA,8397,Urban,122700,Spokane,Washington,West,1887,WA,Private not-for-profit,11,8397,5413,31079162,100,100
+219,Western Washington University,WA,17883,Urban,112800,Bellingham,Washington,West,1893,WA,Public,18,17883,16791,16930172,87,80
+220,Florida Atlantic University,FL,37930,Urban,99800,Boca Raton,Florida,South,1964,FL,Public,22,37930,31632,27162923,87,82
+221,"University of Hawaii, Manoa",HI,20702,Urban,101200,Honolulu,Hawaii,West,1907,HI,Public,13,20702,15160,9586881,72,61
+222,"University of Nebraska, Lincoln",NE,32498,Urban,109100,Lincoln,Nebraska,,1869,,Public,16,32498,26359,40337626,93,85
+223,California State University-Monterey Bay,CA,8493,Suburban,107700,Marina,California,West,,CA,Public,23,8493,7494,7068099,81,74
+224,Clarkson University,NY,4697,Rural,146900,Potsdam,New York,Northeast,1896,NY,Private not-for-profit,13,4697,3193,30788988,100,100
+225,Seattle University,WA,8023,Urban,129000,Seattle,Washington,West,1898,WA,Private not-for-profit,10,8023,5086,23878727,98,97
+226,Stevens Institute of Technology,NJ,8158,Suburban,154300,Hoboken,New Jersey,Northeast,1870,NJ,Private not-for-profit,12,8158,3753,29076665,99,99
+227,Reed College,OR,1562,Urban,125900,Portland,Oregon,West,1908,OR,Private not-for-profit,9,1562,1537,9154498,60,56
+228,Loyola University Chicago,IL,19692,Urban,113900,Chicago,Illinois,Midwest,1870,IL,Private not-for-profit,14,19692,13878,60213922,99,98
+229,Manhattan College,NY,4322,Urban,139000,Riverdale,New York,Northeast,1853,NY,Private not-for-profit,11,4322,3661,24158670,100,100
+230,"California State University, East Bay",CA,18717,Suburban,112100,Hayward,California,West,1957,CA,Public,26,18717,15329,10704095,85,80
+231,University of Mississippi,MS,24309,Rural,97600,Lafayette,Mississippi,,1844,,Public,16,24309,19151,30638509,87,82
+232,Chapman University,CA,10654,Urban,108000,Orange,California,West,1861,CA,Private not-for-profit,12,10654,7988,44650554,89,85
+233,Virginia Commonwealth University,VA,32628,Urban,96100,Richmond,Virginia,South,1838,VA,Public,18,32628,24766,40918621,83,73
+234,Missouri University of Science and Technology,MO,8618,Rural,132000,Rolla,Missouri,Midwest,1870,MO,Public,19,8618,6629,12477615,99,97
+235,Michigan Technological University,MI,7786,Rural,124400,Houghton,Michigan,Midwest,1885,MI,Public,13,7786,6296,17892362,99,99
+236,"California State University, Stanislaus",CA,12213,Suburban,103100,Turlock,California,West,1957,CA,Public,22,12213,10762,13384037,92,88
+237,Truman State University,MO,5637,Rural,100400,Kirksville,Missouri,Midwest,1867,MO,Public,14,5637,5210,8645601,100,100
+238,Wheaton College (IL),IL,3416,Suburban,114500,Wheaton,Illinois,Midwest,1860,IL,Private not-for-profit,10,3416,2654,12477403,94,85
+239,St. Lawrence University,NY,2554,Rural,125300,Canton,New York,Northeast,1856,NY,Private not-for-profit,10,2554,2490,24216619,97,97
+240,Miami University (OH),OH,21667,Rural,120800,Oxford,Ohio,Midwest,1809,OH,Public,16,21667,18113,47334164,90,82
+241,University of Rhode Island,RI,21108,Suburban,110800,Kingston,Rhode Island,Northeast,1892,RI,Public,17,21108,17724,34449621,98,90
+242,Fairfield University,CT,6004,Suburban,135300,Fairfield,Connecticut,Northeast,1942,CT,Private not-for-profit,12,6004,4678,26634025,97,95
+243,Drake University,IA,5504,Urban,115100,Des Moines,Iowa,Midwest,1881,IA,Private not-for-profit,10,5504,3071,21431169,100,100
+244,Oklahoma State University,OK,26463,Rural,108800,Stillwater,Oklahoma,South,1890,OK,Public,18,26463,21688,33859117,92,86
+245,"Rutgers University, Camden",NJ,8113,Urban,105600,Camden,New Jersey,Northeast,,NJ,Public,15,8113,6428,10811069,99,95
+246,Sonoma State University,CA,9885,Suburban,106900,Rohnert Park,California,West,1960,CA,Public,21,9885,9012,8500978,73,63
+247,Seton Hall University,NJ,11390,Suburban,115200,South Orange,New Jersey,Northeast,1856,NJ,Private not-for-profit,14,11390,6468,43765073,100,99
+248,Utah State University,UT,33055,Urban,109100,Logan,Utah,West,1888,UT,Public,19,33055,29335,31964416,87,82
+249,"SUNY, Geneseo",NY,5724,Rural,105800,Geneseo,New York,Northeast,1871,NY,Public,17,5724,5569,6924198,87,73
+250,St. John's University (NY),NY,23167,Urban,119000,Queens,New York,Northeast,1870,NY,Private not-for-profit,16,23167,18131,89415786,100,100
+251,California State University-San Marcos,CA,16959,Suburban,105300,San Marcos,California,West,,CA,Public,27,16959,15621,14513516,83,74
+252,"University of North Carolina, Charlotte",NC,34715,Urban,101600,Charlotte,North Carolina,,1946,,Public,20,34715,27636,15523320,74,56
+253,"University of Wisconsin, Eau Claire",WI,12230,Urban,100900,Eau Claire,Wisconsin,Midwest,1916,WI,Public,21,12230,11441,5569632,80,59
+254,Rowan University,NJ,23231,Suburban,102500,Glassboro,New Jersey,Northeast,1923,NJ,Public,17,23231,18638,18594924,89,68
+255,Centre College,KY,1421,Rural,102300,Danville,Kentucky,South,1819,KY,Private not-for-profit,10,1421,1421,12069819,100,100
+256,"California State University, San Bernardino",CA,22157,Urban,97400,San Bernardino,California,West,1965,CA,Public,27,22157,19454,25380681,89,86
+257,College of Saint Benedict and Saint John's University,MN,1799,Rural,124000,Collegeville,Minnesota,Midwest,1857,MN,Private not-for-profit,12,1799,1655,13310320,100,100
+258,Samford University,AL,6127,Suburban,97300,Birmingham,Alabama,South,1841,AL,Private not-for-profit,12,6127,3687,16333865,100,99
+259,Illinois State University,IL,23141,Suburban,104900,Normal,Illinois,Midwest,1857,IL,Public,19,23141,19798,34820222,94,89
+260,SUNY Maritime College,NY,1860,Urban,164100,Throggs Neck,New York,Northeast,1874,NY,Public,16,1860,1674,1662985,78,59
+261,University of Saint Thomas (MN),MN,11063,Urban,123700,St. Paul,Minnesota,Midwest,1885,MN,Private not-for-profit,14,11063,6780,40648287,98,96
+262,Lewis & Clark College,OR,3554,Urban,109000,Portland,Oregon,West,1867,OR,Private not-for-profit,11,3554,1995,15577725,100,98
+263,University of Louisville,KY,25451,Urban,95600,Louisville,Kentucky,South,1798,KY,Public,19,25451,18045,28475777,98,96
+264,Providence College,RI,5254,Urban,123500,Providence,Rhode Island,Northeast,1917,RI,Private not-for-profit,11,5254,4584,24973738,76,71
+265,Ramapo College of New Jersey,NJ,6913,Suburban,110000, Mahwah,New Jersey,Northeast,1962,NJ,Public,16,6913,6225,6271918,78,51
+266,"SUNY, College of Environmental Science and Forestry",NY,2385,Urban,98700,Syracuse,New York,Northeast,1911,NY,Public,14,2385,1920,2405871,92,86
+267,California State University Maritime Academy,CA,1016,Urban,139400,Vallejo,California,West,1929,CA,Public,13,1016,984,680549,67,49
+268,Hobart and William Smith Colleges,NY,2109,Rural,126500,Geneva,New York,Northeast,1822,NY,Private not-for-profit,9,2109,2100,15173664,93,90
+269,California Lutheran University,CA,4987,Urban,114700,Thousand Oaks,California,West,1959,CA,Private not-for-profit,14,4987,3363,20219395,99,99
+269,Salisbury University,MD,9521,Suburban,99300,Salisbury,Maryland,Northeast,1922,MD,Public,15,9521,8395,8040917,91,88
+271,University of North Texas,TX,45298,Urban,101300,Denton,Texas,South,1890,TX,Public,26,45298,36663,40814350,85,60
+272,University of Mary Washington,VA,5098,Suburban,110000,Fredericksburg,Virginia,South,1908,VA,Public,13,5098,4713,5499211,93,89
+273,DePaul University,IL,25937,Urban,116700,Chicago,Illinois,Midwest,1898,IL,Private not-for-profit,17,25937,16134,62751712,98,97
+274,Thomas Jefferson University,PA,9785,Urban,100000,Philadelphia,Pennsylvania,Northeast,1825,PA,Private not-for-profit,13,9785,4395,18876486,99,98
+275,Kansas State University,KS,23353,Urban,107400,Manhattan,Kansas,Midwest,1863,KS,Public,18,23353,18417,21834511,88,82
+276,University of New Hampshire,NH,16001,Suburban,111500,Durham,New Hampshire,Northeast,1866,NH,Public,16,16001,13027,32132329,95,93
+277,University of Alabama,AL,42096,Urban,103600,Tuscaloosa,Alabama,South,1820,AL,Public,20,42096,35872,75612520,85,78
+278,Duquesne University,PA,10187,Urban,103500,Pittsburgh,Pennsylvania,Northeast,1878,PA,Private not-for-profit,13,10187,6272,30975668,100,100
+279,"Embry-Riddle Aeronautical University, Daytona Beach",FL,7521,Urban,121200,Daytona Beach,Florida,South,1926,FL,Private not-for-profit,18,7521,6792,28621643,96,96
+280,Pace University,NY,15486,Urban,121300,New York,New York,Northeast,1906,NY,Private not-for-profit,14,15486,9649,57422148,96,96
+281,"University at Albany, SUNY",NY,20099,Urban,118200,Albany,New York,Northeast,1844,NY,Public,19,20099,15185,20572218,87,76
+282,Wofford College,SC,1776,Urban,118900,Spartanburg,South Carolina,South,1854,SC,Private not-for-profit,12,1776,1776,14796396,98,98
+283,Ithaca College,NY,6780,Suburban,119300,Ithaca,New York,Northeast,1892,NY,Private not-for-profit,9,6780,6143,40842598,98,96
+284,Montclair State University,NJ,24101,Suburban,109100,Montclair,New Jersey,Northeast,1908,NJ,Public,18,24101,18661,20242277,82,62
+285,College of Charleston,SC,13062,Urban,94900,Charleston,South Carolina,South,1770,SC,Public,15,13062,10498,17383059,85,83
+286,Sewanee—University of the South,TN,1957,Rural,128700,Sewanee,Tennessee,South,1857,TN,Private not-for-profit,10,1957,1797,11230304,96,96
+287,Butler University,IN,5955,Urban,111700,Indianapolis,Indiana,Midwest,1855,IN,Private not-for-profit,12,5955,4808,20737230,96,96
+288,New Mexico Institute of Mining and Technology,NM,2123,Rural,133400,Socorro,New Mexico,West,1889,NM,Public,8,2123,1479,1950329,98,97
+289,Hope College,MI,3158,Urban,97300,Holland,Michigan,Midwest,1866,MI,Private not-for-profit,11,3158,3158,13092485,97,97
+290,College of Wooster,OH,2128,Rural,105800,Wooster,Ohio,Midwest,1866,OH,Private not-for-profit,11,2128,2128,20804857,99,99
+291,Gustavus Adolphus College,MN,2611,Rural,113200,St. Peter,Minnesota,Midwest,1862,MN,Private not-for-profit,12,2611,2611,20553279,99,98
+292,"SUNY, Farmingdale State College",NY,12841,Suburban,104300,Farmingdale,New York,Northeast,,NY,Public,19,12841,12774,7770070,74,62
+293,"University of Colorado, Denver",CO,31796,Urban,105300,Denver,Colorado,West,1912,CO,Public,17,31796,20717,7673141,82,76
+294,Rockhurst University,MO,4354,Urban,104900,Kansas City,Missouri,Midwest,1910,MO,Private not-for-profit,14,4354,3029,12555308,100,100
+295,University of North Florida,FL,20515,Urban,97500,Jacksonville,Florida,South,1972,FL,Public,19,20515,17574,20185843,90,86
+296,Saint Mary's College of California,CA,4169,Suburban,130800,Moraga,California,West,1863,CA,Private not-for-profit,9,4169,2754,14064191,100,100
+297,"CUNY, Lehman College",NY,19829,Urban,89600,New York,New York,Northeast,1931,NY,Public,17,19829,17112,9013756,95,95
+298,Loyola University Maryland,MD,5945,Urban,128600,Baltimore,Maryland,Northeast,1852,MD,Private not-for-profit,12,5945,4021,31142040,97,96
+299,"CUNY, John Jay College of Criminal Justice",NY,19553,Urban,93600,New York,New York,Northeast,1964,NY,Public,19,19553,16900,17922560,95,94
+299,New School,NY,12046,Urban,115700,New York,New York,Northeast,1919,NY,Private not-for-profit,9,12046,8802,25406466,84,84
+301,Appalachian State University,NC,20799,Rural,92900,Boone,North Carolina,South,1899,NC,Public,16,20799,18679,12650612,68,39
+302,"University of Houston, Clear Lake",TX,11134,Suburban,105500,Houston,Texas,South,,TX,Public,17,11134,8080,1643068,67,61
+303,"University of Nevada, Las Vegas",NV,34979,Urban,99100,Las Vegas,Nevada,West,1957,NV,Public,18,34979,28841,26074353,96,93
+304,Wabash College,IN,871,Rural,143800,Crawfordsville,Indiana,Midwest,1832,IN,Private not-for-profit,9,871,871,7868014,100,100
+305,Mississippi State University,MS,24449,Rural,103200,Mississippi State,Mississippi,South,1878,MS,Public,16,24449,20288,44017359,98,98
+306,"California State University, Channel Islands",CA,8436,Suburban,97600,Camarillo,California,West,,CA,Public,22,8436,7935,6308844,81,76
+307,"University of Texas, Arlington",TX,61457,Urban,107300,Arlington,Texas,South,1895,TX,Public,24,61457,43756,29503356,90,84
+308,California State University-Dominguez Hills,CA,19491,Urban,94900,Dominguez Hills,California,West,,CA,Public,27,19491,16449,22856003,93,92
+309,University of California-Merced,CA,9268,Rural,,Merced,California,West,,CA,Public,19,9268,8546,45392254,93,91
+310,Willamette University,OR,2954,Urban,115500,Salem,Oregon,West,1842,OR,Private not-for-profit,10,2954,2253,10612534,100,99
+311,University of Massachusetts Boston,MA,19107,Urban,102700,Boston,Massachusetts,Northeast,1964,MA,Public,17,19107,15054,20489164,89,83
+312,Hofstra University,NY,11750,Suburban,126400,Hempstead,New York,Northeast,1935,NY,Private not-for-profit,13,11750,6933,42852227,98,97
+313,Saint Joseph's University (PA),PA,8436,Urban,117400,Philadelphia,Pennsylvania,Northeast,1851,PA,Private not-for-profit,11,8436,5016,29909098,98,98
+314,Ohio Northern University,OH,2996,Rural,111600,Ada,Ohio,Midwest,1871,OH,Private not-for-profit,11,2996,2276,13903531,99,97
+315,Clark University (MA),MA,3880,Urban,124300,Worcester,Massachusetts,Northeast,1887,MA,Private not-for-profit,9,3880,2592,17445475,97,95
+316,Bradley University,IL,6377,Urban,116200,Peoria,Illinois,Midwest,1897,IL,Private not-for-profit,14,6377,4750,23519476,100,100
+317,Le Moyne College,NY,3802,Suburban,106700,Syracuse,New York,Northeast,1946,NY,Private not-for-profit,13,3802,3034,16666361,100,100
+318,Azusa Pacific University,CA,10989,Suburban,95600,Azusa,California,West,1899,CA,Private not-for-profit,10,10989,5497,16614657,95,94
+319,"University of Puerto Rico, Mayaguez",PR,13441,Urban,120500,MayagŸez,Puerto Rico,South,,PR,Public,21,13441,12493,11356625,93,93
+320,Kettering University,MI,2670,Urban,138700,Flint,Michigan,Midwest,1919,MI,Private not-for-profit,13,2670,2068,8085115,100,100
+321,University of Puget Sound,WA,2757,Urban,123900,Tacoma,Washington,West,1888,WA,Private not-for-profit,9,2757,2354,18394700,100,100
+322,Southwestern University,TX,1562,Urban,105000,Georgetown,Texas,South,1840,TX,Private not-for-profit,13,1562,1562,12231647,100,99
+323,Pennsylvania State University,PA,102826,Urban,,State College,Pennsylvania,Northeast,1855,PA,Public,15,102826,84202,78568766,75,60
+324,Calvin University,MI,4020,Urban,105500,Grand Rapids,Michigan,Midwest,1876,MI,Private not-for-profit,12,4020,3782,18522363,100,100
+325,"University of Florida, Online",FL,4932,Urban,,Gainesville,Florida,South,,FL,Public,49,4932,4932,5067521,90,87
+326,University of Alabama at Birmingham,AL,25843,Urban,94900,Birmingham,Alabama,South,1969,AL,Public,20,25843,14969,21997466,96,91
+327,California State University-Bakersfield,CA,12854,Urban,102700,Bakersfield,California,West,,CA,Public,23,12854,11027,14475551,91,88
+328,Lake Forest College,IL,1723,Suburban,119900,Lake Forest,Illinois,Midwest,1857,IL,Private not-for-profit,12,1723,1696,13925934,99,99
+329,"University of Minnesota, Morris",MN,1637,Rural,97200,Morris,Minnesota,Midwest,1960,MN,Public,11,1637,1637,4130032,98,96
+330,University of North Dakota,ND,17182,Urban,104000,Grand Forks,North Dakota,Midwest,1883,ND,Public,17,17182,12954,8117000,95,89
+331,Tennessee Technological University,TN,11103,Rural,100300,Cookeville,Tennessee,South,1915,TN,Public,18,11103,9646,13968673,98,98
+332,Valparaiso University,IN,3808,Suburban,110100,Valparaiso,Indiana,Midwest,1859,IN,Private not-for-profit,11,3808,3176,20596432,100,100
+333,"Embry-Riddle Aeronautical University, Prescott",AZ,3114,Rural,135000,Prescott,Arizona,West,1978,AZ,Private not-for-profit,18,3114,3056,13618734,98,97
+333,Grove City College,PA,2481,Rural,113500,Grove City,Pennsylvania,Northeast,1876,PA,Private not-for-profit,13,2481,2481,2516423,80,66
+335,Marist College,NY,7645,Suburban,112100,Poughkeepsie,New York,Northeast,1929,NY,Private not-for-profit,16,7645,6503,27575673,94,93
+336,Northeastern University Lifelong Learning Network,MA,14916,Urban,,Boston,Massachusetts,Northeast,,MA,Private not-for-profit,14,14916,4243,,,
+337,"SUNY, College at New Paltz",NY,8902,Suburban,97300,New Paltz,New York,Northeast,1828,NY,Public,15,8902,7684,7791581,83,70
+338,"University of Nebraska, Omaha",NE,17913,Urban,96900,Omaha,Nebraska,Midwest,1908,NE,Public,16,17913,14138,10161105,88,70
+339,The Catholic University of America,DC,6156,Urban,120000,Washington,District of Columbia,Northeast,1887,DC,Private not-for-profit,11,6156,3371,23750464,98,98
+340,West Virginia University,WV,30045,Urban,110100,Morgantown,West Virginia,South,1867,WV,Public,21,30045,23061,41150449,95,85
+341,University of Alabama in Huntsville,AL,11312,Urban,116200,Huntsville,Alabama,South,1950,AL,Public,19,11312,8898,16612799,96,93
+342,Juniata College,PA,1651,Rural,104400,Huntingdon,Pennsylvania,Northeast,1876,PA,Private not-for-profit,13,1651,1611,14835563,100,100
+343,University of Idaho,ID,13852,Rural,107900,Moscow,Idaho,West,1889,ID,Public,16,13852,10568,14633630,99,96
+344,Lawrence University,WI,1459,Urban,119000,Appleton,Wisconsin,Midwest,1847,WI,Private not-for-profit,8,1459,1459,13661049,100,100
+345,University of Michigan-Dearborn,MI,10611,Urban,109700,Dearborn,Michigan,Midwest,1959,MI,Public,16,10611,7803,8108245,92,86
+346,John Carroll University,OH,3857,Suburban,120400,University Heights,Ohio,Midwest,1886,OH,Private not-for-profit,13,3857,3185,20417390,99,97
+347,"University of Missouri, Saint Louis",MO,19090,Suburban,93100,St. Louis,Missouri,Midwest,1963,MO,Public,19,19090,15549,6136848,96,94
+348,Maine Maritime Academy,ME,1029,Rural,131800,Castine,Maine,Northeast,,ME,Public,9,1029,1010,1828439,94,72
+349,Howard University,DC,9831,Urban,115000,Washington,District of Columbia,Northeast,1867,DC,Private not-for-profit,12,9831,6801,42564951,98,98
+350,Muhlenberg College,PA,2950,Urban,112200,Allentown,Pennsylvania,Northeast,1848,PA,Private not-for-profit,9,2950,2950,17845631,96,96
+351,University of Wyoming,WY,13616,Rural,105000,Laramie,Wyoming,West,1886,WY,Public,14,13616,10836,14017953,95,89
+352,University of Massachusetts Lowell,MA,22192,Suburban,122100,Lowell,Massachusetts,Northeast,1894,MA,Public,19,22192,16869,21222061,91,81
+353,Brigham Young University-Idaho,ID,58767,Rural,111700,Rexburg,Idaho,West,1888,ID,Private not-for-profit,20,58767,58767,10934390,60,48
+354,Mercer University,GA,9933,Urban,91300,Macon,Georgia,South,1833,GA,Private not-for-profit,14,9933,5420,28611454,100,100
+355,Montana Tech of the University of Montana,MT,1944,Rural,113700,Butte,Montana,West,1900,MT,Public,13,1944,1645,1522295,93,82
+356,Beloit College,WI,1302,Urban,100400,Beloit,Wisconsin,Midwest,1846,WI,Private not-for-profit,10,1302,1302,10088486,100,100
+357,University of St. Thomas (TX),TX,3938,Urban,102800,Houston,Texas,South,,TX,Private not-for-profit,14,3938,2313,7314817,97,96
+358,Washington & Jefferson College,PA,1296,Suburban,114300,Washington,Pennsylvania,Northeast,1781,PA,Private not-for-profit,10,1296,1293,10294594,100,100
+359,Austin College,TX,1326,Urban,103900,Sherman,Texas,South,1849,TX,Private not-for-profit,12,1326,1306,12478447,100,100
+360,SUNY Polytechnic Institute,NY,3393,Suburban,101400,Utica,New York,Northeast,,NY,Public,13,3393,2433,3281860,96,93
+361,"University of Wisconsin, La Crosse",WI,11501,Urban,96100,La Crosse,Wisconsin,Midwest,1909,WI,Public,19,11501,10329,3723018,77,56
+362,Portland State University,OR,30571,Urban,97800,Portland,Oregon,West,1946,OR,Public,19,30571,24062,10214070,84,72
+363,Loma Linda University,CA,5447,Suburban,108700,Loma Linda,California,West,,CA,Private not-for-profit,3,5447,1811,,,
+364,Milwaukee School of Engineering,WI,2874,Urban,125000,Milwaukee,Wisconsin,Midwest,1903,WI,Private not-for-profit,14,2874,2653,16129148,100,100
+365,North Dakota State University,ND,14384,Urban,108100,Fargo,North Dakota,Midwest,1890,ND,Public,19,14384,11626,8565382,95,78
+366,"University of Minnesota, Duluth",MN,11557,Urban,105300,Duluth,Minnesota,Midwest,1902,MN,Public,17,11557,10456,10285638,90,74
+367,Georgia State University,GA,41177,Urban,99000,Atlanta,Georgia,South,1913,GA,Public,27,41177,32742,48202413,95,91
+368,Adelphi University,NY,9074,Suburban,103900,Garden City,New York,Northeast,1896,NY,Private not-for-profit,12,9074,5911,24087209,92,91
+369,Bryant University,RI,4104,Suburban,122800,Smithfield,Rhode Island,Northeast,,RI,Private not-for-profit,13,4104,3491,18314637,97,96
+370,University of Dallas,TX,2894,Urban,117000,Irving,Texas,South,1955,TX,Private not-for-profit,12,2894,1538,12164225,100,100
+371,West Chester University of Pennsylvania,PA,19680,Suburban,98200,West Chester,Pennsylvania,Northeast,1871,PA,Public,20,19680,15885,10949693,85,65
+372,Westminster College (UT),UT,2419,Urban,107000,Salt Lake City,Utah,West,,UT,Private not-for-profit,9,2419,1877,6763969,100,100
+373,Cedarville University,OH,4763,Rural,102300,Cedarville,Ohio,Midwest,1887,OH,Private not-for-profit,15,4763,4241,17264768,100,100
+374,Pacific Lutheran University,WA,3447,Suburban,112600,Tacoma,Washington,West,1890,WA,Private not-for-profit,12,3447,2835,18670776,100,100
+375,"Indiana University-Purdue University, Indianapolis",IN,33900,Urban,93500,Indianapolis,Indiana,Midwest,1969,IN,Public,14,33900,24230,37662116,92,87
+376,University of Redlands,CA,5960,Urban,112600,Redlands,California,West,1907,CA,Private not-for-profit,12,5960,3452,27153400,99,98
+377,Oregon Institute of Technology,OR,8065,Rural,111300,Klamath Falls,Oregon,West,1947,OR,Public,16,8065,7894,2335782,94,90
+378,Seattle Pacific University,WA,3920,Urban,114900,Seattle,Washington,West,1891,WA,Private not-for-profit,13,3920,2935,20304637,99,99
+379,College of Saint Benedict,MN,1789,Suburban,104700,St. Joseph,Minnesota,Midwest,1913,MN,Private not-for-profit,12,1789,1789,14549179,100,100
+380,University of Missouri-Kansas City,MO,18894,Urban,97000,Kansas City,Missouri,Midwest,1933,MO,Public,16,18894,12938,7795826,92,84
+381,Virginia Military Institute,VA,1740,Rural,135100,Lexington,Virginia,South,1839,VA,Public,11,1740,1740,3033217,94,85
+382,Northern Arizona University,AZ,34290,Urban,98200,Flagstaff,Arizona,West,1899,AZ,Public,22,34290,29070,50835986,95,94
+382,Wagner College ,NY,2315,Urban,111100,Staten Island,New York,Northeast,1883,NY,Private not-for-profit,15,2315,1859,12439608,100,100
+384,Rollins College,FL,3363,Suburban,101900,Winter Park,Florida,South,1885,FL,Private not-for-profit,12,3363,2773,18134490,95,95
+385,Texas State University,TX,42292,Urban,98000,San Marcos,Texas,South,1899,TX,Public,22,42292,37202,41859704,80,70
+386,McDaniel College,MD,3418,Suburban,108400,Westminster,Maryland,Northeast,,MD,Private not-for-profit,13,3418,1789,19604345,100,99
+387,Simmons University,MA,7562,Urban,102500,Boston,Massachusetts,Northeast,1899,MA,Private not-for-profit,9,7562,1844,13607345,100,99
+388,Hampden-Sydney College,VA,1003,Rural,126400,Hampden-Sydney,Virginia,South,1775,VA,Private not-for-profit,9,1003,1003,6846834,100,100
+389,Linfield University,OR,1480,Rural,101600,McMinnville,Oregon,West,1858,OR,Private not-for-profit,11,1480,1480,13772132,100,100
+390,Saint Anselm College,NH,2063,Suburban,120000,Manchester,New Hampshire,Northeast,1889,NH,Private not-for-profit,11,2063,2063,14106191,100,100
+391,University of Texas at San Antonio,TX,36089,Urban,97700,San Antonio,Texas,South,1969,TX,Public,27,36089,31261,26322685,87,76
+392,Siena College,NY,3498,Suburban,116700,Loudonville,New York,Northeast,1937,NY,Private not-for-profit,13,3498,3371,23367694,97,97
+393,"University of North Carolina, Wilmington",NC,20367,Urban,90600,Wilmington,North Carolina,South,1947,NC,Public,17,20367,17001,8012824,72,52
+394,SUNY College at Old Westbury,NY,6331,Suburban,99200,Old Westbury,New York,Northeast,1965,NY,Public,17,6331,5948,4611285,85,78
+395,Texas Woman's University,TX,19733,Urban,86000,Denton,Texas,South,1901,TX,Public,19,19733,12463,10535194,95,90
+396,Fairleigh Dickinson University,NJ,9692,Suburban,105200,Teaneck,New Jersey,Northeast,1942,NJ,Private not-for-profit,15,9692,7328,17740308,96,96
+397,Florida Gulf Coast University,FL,17114,Suburban,89700,Fort Myers,Florida,South,1991,FL,Public,22,17114,15446,13750710,78,78
+398,Massachusetts Maritime Academy,MA,1890,Suburban,126800,Buzzards Bay,Massachusetts,Northeast,,MA,Public,14,1890,1786,4015136,95,72
+399,Oakland University,MI,22230,Suburban,102700,Rochester,Michigan,Midwest,1957,MI,Public,19,22230,18047,23004903,93,88
+399,Quinnipiac University,CT,11047,Suburban,103800,Hamden,Connecticut,Northeast,1929,CT,Private not-for-profit,15,11047,7430,36944090,99,97
+401,Stonehill College,MA,2618,Suburban,115500,Easton,Massachusetts,Northeast,1948,MA,Private not-for-profit,11,2618,2563,17493995,100,100
+402,Pratt Institute,NY,6418,Urban,113200,Brooklyn,New York,Northeast,1887,NY,Private not-for-profit,9,6418,4935,13942148,81,74
+403,Allegheny College,PA,1843,Rural,112100,Meadville,Pennsylvania,Northeast,1815,PA,Private not-for-profit,9,1843,1843,19241661,100,100
+404,Canisius College,NY,3538,Urban,103400,Buffalo,New York,Northeast,1870,NY,Private not-for-profit,11,3538,2349,11168419,100,100
+405,New College of Florida,FL,747,Urban,106300,Sarasota,Florida,South,1960,FL,Public,6,747,722,1583167,99,99
+406,Ohio University,OH,31679,Rural,102300,Athens,Ohio,Midwest,1804,OH,Public,16,31679,23910,23005829,95,88
+407,Illinois Wesleyan University,IL,1643,Urban,111300,Bloomington,Illinois,Midwest,1850,IL,Private not-for-profit,11,1643,1643,12542608,100,100
+408,Drew University,NJ,2656,Suburban,111900,Madison,New Jersey,Northeast,1867,NJ,Private not-for-profit,12,2656,1877,11748152,97,97
+409,University of Detroit Mercy,MI,5574,Urban,99400,Detroit,Michigan,Midwest,,MI,Private not-for-profit,11,5574,3062,10507949,100,100
+410,Central Washington University,WA,14090,Rural,103000,Ellensburg,Washington,West,,WA,Public,20,14090,13137,12733290,88,81
+411,New York Institute of Technology,NY,8088,Suburban,113200,Old Westbury,New York,Northeast,,NY,Private not-for-profit,11,8088,4116,22440522,99,99
+412,Monmouth University,NJ,6618,Suburban,107700,West Long Branch,New Jersey,Northeast,,NJ,Private not-for-profit,12,6618,4775,23995978,99,99
+413,"University of Texas, El Paso",TX,29556,Urban,102200,El Paso,Texas,South,1914,TX,Public,21,29556,24745,24404586,88,82
+414,University of Scranton,PA,6349,Urban,114800,Scranton,Pennsylvania,Northeast,1888,PA,Private not-for-profit,12,6349,4433,25538433,99,97
+415,Point Loma Nazarene University,CA,5372,Urban,100100,San Diego,California,West,1902,CA,Private not-for-profit,15,5372,3502,10448586,94,91
+416,University of Baltimore,MD,5198,Urban,94000,Baltimore,Maryland,Northeast,,MD,Public,13,5198,2493,230703,93,88
+417,Iona College,NY,4155,Suburban,114900,New Rochelle,New York,Northeast,1940,NY,Private not-for-profit,15,4155,3331,15825557,100,100
+418,Dominican University of California,CA,1980,Urban,95400,San Rafael,California,West,,CA,Private not-for-profit,10,1980,1539,7887065,78,78
+419,Saint Peter's University,NJ,3788,Urban,113000,Jersey City,New Jersey,Northeast,,NJ,Private not-for-profit,13,3788,2685,13597241,100,99
+420,Susquehanna University,PA,2348,Rural,113200,Selinsgrove,Pennsylvania,Northeast,1858,PA,Private not-for-profit,13,2348,2345,22342779,95,95
+421,Molloy College,NY,8836,Suburban,97500,Rockville Centre,New York,Northeast,1955,NY,Private not-for-profit,10,8836,6473,10852396,99,97
+422,Christopher Newport University,VA,5058,Urban,97200,Newport News,Virginia,South,1960,VA,Public,14,5058,4969,4688364,75,60
+423,Taylor University,IN,2484,Rural,108000,Upland,Indiana,Midwest,1846,IN,Private not-for-profit,13,2484,2453,11049088,100,99
+424,"University of Texas, Rio Grande Valley",TX,41681,Urban,87300,Edinburg,Texas,South,2013,TX,Public,21,41681,35593,43773269,95,92
+425,Grand Valley State University,MI,26993,Suburban,91200,Allendale,Michigan,Midwest,1960,MI,Public,16,26993,23127,26398314,90,79
+426,Ball State University,IN,25247,Urban,89700,Muncie,Indiana,Midwest,1918,IN,Public,14,25247,17636,37014896,90,76
+426,Montana State University,MT,18756,Rural,104300,Bozeman,Montana,West,1893,MT,Public,17,18756,16214,18153533,92,91
+428,Lewis University,IL,7612,Suburban,97400,Romeoville,Illinois,Midwest,1932,IL,Private not-for-profit,14,7612,4941,15288563,100,100
+429,Principia College,IL,425,Rural,106100,Elsah,Illinois,Midwest,1912,IL,Private not-for-profit,5,425,425,1853786,98,98
+430,Kennesaw State University,GA,44088,Suburban,103900,Kennesaw,Georgia,South,1963,GA,Public,22,44088,39961,35433870,92,89
+431,East Carolina University,NC,31962,Urban,93100,Greenville,North Carolina,South,1907,NC,Public,19,31962,25249,20015077,81,64
+432,University of New Mexico,NM,25420,Urban,104700,Albuquerque,New Mexico,West,1889,NM,Public,19,25420,18683,15803429,96,96
+433,Menlo College,CA,935,Suburban,125000,Atherton,California,West,,CA,Private not-for-profit,17,935,935,8384028,98,98
+434,Augustana College,IL,2611,Urban,104400,Rock Island,Illinois,Midwest,1860,IL,Private not-for-profit,11,2611,2591,21620676,100,100
+435,La Salle University,PA,7082,Urban,116300,Philadelphia,Pennsylvania,Northeast,1863,PA,Private not-for-profit,13,7082,4116,15249334,98,96
+436,Albion College,MI,1500,Rural,120300,Albion,Michigan,Midwest,1835,MI,Private not-for-profit,12,1500,1500,17907760,100,100
+437,Louisiana Tech University,LA,12768,Rural,107300,Ruston,Louisiana,South,1894,LA,Public,23,12768,11268,22656637,99,98
+438,St. Edward's University,TX,4324,Urban,109600,Austin,Texas,South,1878,TX,Private not-for-profit,14,4324,3615,21949918,98,98
+439,Norwich University,VT,4792,Rural,112200,Northfield,Vermont,Northeast,1819,VT,Private not-for-profit,13,4792,3677,22375705,100,100
+440,"CUNY, College of Staten Island",NY,15464,Urban,105100,Staten Island,New York,Northeast,1976,NY,Public,20,15464,14247,17331207,89,89
+441,Berea College,KY,1707,Rural,77300,Berea,Kentucky,South,1855,KY,Private not-for-profit,9,1707,1707,20620440,100,100
+442,Central Connecticut State University,CT,13046,Suburban,103000,New Britain,Connecticut,Northeast,,CT,Public,14,13046,10321,6927477,89,77
+443,Stockton University,NJ,11925,Suburban,95700,Galloway,New Jersey,Northeast,1971,NJ,Public,18,11925,10727,12426745,91,80
+444,SUNY Cortland,NY,7657,Rural,92200,Cortland,New York,Northeast,1868,NY,Public,16,7657,6923,6897909,85,69
+445,Hillsdale College,MI,1685,Rural,,Hillsdale,Michigan,Midwest,1844,MI,Private not-for-profit,9,1685,1619,6921210,98,97
+446,University of North Georgia,GA,23141,Rural,97200,Dahlonega,Georgia,South,2013,GA,Public,19,23141,22283,19065017,93,93
+447,Wentworth Institute of Technology,MA,5456,Urban,121600,Boston,Massachusetts,Northeast,,MA,Private not-for-profit,16,5456,5290,14967728,100,100
+448,Mount St. Mary's University (MD),MD,2649,Rural,108300,Emmitsburg,Maryland,Northeast,,MD,Private not-for-profit,14,2649,2084,15284025,100,100
+449,John Brown University,AR,2749,Rural,87800,Siloam Springs,Arkansas,South,1919,AR,Private not-for-profit,14,2749,2066,6085158,100,100
+450,Brigham Young University-Hawaii,HI,3583,Rural,109800,Laie,Hawaii,West,,HI,Private not-for-profit,16,3583,3583,2083561,79,71
+451,University of Wisconsin-Platteville,WI,9403,Rural,106700,Platteville,Wisconsin,Midwest,,WI,Public,21,9403,8325,4078729,91,82
+452,"St. John's College, Annapolis",MD,599,Suburban,120300,Annapolis,Maryland,Northeast,1784,MD,Private not-for-profit,7,599,500,2247971,98,93
+453,University of Evansville,IN,2690,Urban,104700,Evansville,Indiana,Midwest,1854,IN,Private not-for-profit,10,2690,2355,12432628,100,100
+454,Agnes Scott College,GA,1166,Suburban,91500,Decatur,Georgia,South,1889,GA,Private not-for-profit,11,1166,1081,10138800,100,100
+455,University of South Dakota,SD,12276,Rural,93100,Vermillion,South Dakota,Midwest,1862,SD,Public,15,12276,9126,5109281,92,80
+456,Goucher College,MD,2742,Urban,107100,Baltimore,Maryland,Northeast,1885,MD,Private not-for-profit,9,2742,1490,11492019,100,100
+457,"Embry-Riddle Aeronautical University, Worldwide",FL,20829,Urban,100700,Daytona Beach,Florida,South,,FL,Private not-for-profit,20,20829,15867,284531,69,67
+458,New Mexico State University,NM,16064,Suburban,103500,Las Cruces,New Mexico,West,1888,NM,Public,16,16064,12979,24554327,99,98
+459,Wayne State University,MI,30841,Urban,99000,Detroit,Michigan,Midwest,1868,MI,Public,15,30841,20110,27353974,98,97
+460,St. Mary's College of Maryland,MD,1611,Suburban,109900,St. Mary's City,Maryland,Northeast,1840,MD,Public,9,1611,1587,3144536,96,95
+461,Saint Vincent College,PA,1878,Suburban,103900,Latrobe,Pennsylvania,Northeast,1846,PA,Private not-for-profit,11,1878,1637,10475019,100,100
+462,"University of New Hampshire, Manchester",NH,1592,Urban,94100,Manchester,New Hampshire,Northeast,,NH,Public,10,1592,1206,728000,93,92
+463,Wheaton College (MA),MA,1807,Suburban,107800,Norton,Massachusetts,Northeast,1834,MA,Private not-for-profit,11,1807,1807,18751218,100,99
+464,Abilene Christian University,TX,6058,Urban,103100,Abilene,Texas,South,1906,TX,Private not-for-profit,13,6058,3755,20666643,100,100
+465,CUNY Graduate School and University Center,NY,10413,Urban,,New York,New York,Northeast,,NY,Public,10,10413,3616,,,
+466,"SUNY, College at Oneonta",NY,7907,Rural,96200,Oneonta,New York,Northeast,1889,NY,Public,16,7907,7334,8834537,87,68
+467,Sarah Lawrence College,NY,1728,Suburban,121800,Bronxville,New York,Northeast,1926,NY,Private not-for-profit,10,1728,1483,10584525,82,81
+468,Hamline University,MN,4597,Urban,110400,Saint Paul,Minnesota,Midwest,1854,MN,Private not-for-profit,13,4597,2219,16676249,100,100
+469,Saint Mary's University of Minnesota,MN,6947,Rural,107100,Winona,Minnesota,Midwest,1912,MN,Private not-for-profit,18,6947,1603,8190224,100,100
+470,Elizabethtown College,PA,2055,Suburban,98700,Elizabethtown,Pennsylvania,Northeast,1899,PA,Private not-for-profit,12,2055,1888,7077563,100,100
+471,Christian Brothers University,TN,2296,Urban,107300,Memphis,Tennessee,South,1871,TN,Private not-for-profit,11,2296,1787,8996743,100,100
+472,Old Dominion University,VA,28042,Urban,99200,Norfolk,Virginia,South,1930,VA,Public,18,28042,22182,22291745,93,93
+473,Ohio Wesleyan University,OH,1695,Suburban,115500,Delaware,Ohio,Midwest,1842,OH,Private not-for-profit,10,1695,1695,13950957,100,100
+474,Ursinus College,PA,1492,Suburban,123300,Collegeville,Pennsylvania,Northeast,1869,PA,Private not-for-profit,11,1492,1492,16488223,100,100
+475,South Dakota School of Mines and Technology ,SD,3056,Urban,123600,Rapid City,South Dakota,Midwest,1885,SD,Public,13,3056,2622,2354818,95,88
+476,Saint Michael's College,VT,2689,Suburban,111600,Colchester,Vermont,Northeast,1904,VT,Private not-for-profit,11,2689,1860,12255446,100,100
+477,Lipscomb University,TN,5876,Urban,93800,Nashville,Tennessee,South,,TN,Private not-for-profit,14,5876,3478,13972720,99,99
+478,St Bonaventure University,NY,2796,Rural,105400,St. Bonaventure,New York,Northeast,,NY,Private not-for-profit,12,2796,1861,13114300,99,99
+479,University of Colorado Colorado Springs,CO,16715,Urban,105800,Colorado Springs,Colorado,West,,CO,Public,15,16715,14006,7710821,85,70
+480,Georgia College & State University,GA,8039,Rural,87700,Milledgeville,Georgia,South,1889,GA,Public,16,8039,6483,11566304,97,96
+481,University of Northern Iowa,IA,12137,Urban,92000,Cedar Falls,Iowa,Midwest,1876,IA,Public,17,12137,9872,5476289,83,74
+482,"University of North Carolina, Greensboro",NC,22487,Urban,83100,Greensboro,North Carolina,,1891,,Public,16,22487,18332,17204309,87,67
+483,Marymount University,VA,3971,Urban,107300,Arlington,Virginia,South,,VA,Private not-for-profit,14,3971,2541,9011567,97,97
+484,Southern Illinois University Edwardsville,IL,15204,Suburban,97100,Edwardsville,Illinois,Midwest,1957,IL,Public,16,15204,11861,13237927,93,88
+485,Sam Houston State University,TX,24116,Rural,98600,Huntsville,Texas,South,1879,TX,Public,21,24116,20652,18809118,88,74
+486,Belmont University,TN,9023,Urban,86300,Nashville,Tennessee,South,1890,TN,Private not-for-profit,14,9023,7149,30492217,91,89
+487,SUNY at Purchase College,NY,4677,Suburban,102400,Purchase,New York,Northeast,1967,NY,Public,12,4677,4568,6146830,84,72
+488,The Juilliard School,NY,979,Urban,98100,New York,New York,Northeast,,NY,Private not-for-profit,5,979,605,3457694,92,91
+489,Saint Francis University,PA,3822,Rural,96300,Loretto,Pennsylvania,Northeast,,PA,Private not-for-profit,14,3822,3076,9943380,100,100
+490,College of Idaho,ID,1149,Suburban,113500,Caldwell,Idaho,West,1884,ID,Private not-for-profit,11,1149,1116,8702556,100,100
+491,Loyola University New Orleans,LA,4972,Urban,102300,New Orleans,Louisiana,South,1904,LA,Private not-for-profit,13,4972,3538,26114959,99,99
+492,Xavier University,OH,8079,Urban,104900,Cincinnati,Ohio,Midwest,1831,OH,Private not-for-profit,11,8079,5473,28294277,100,100
+493,The University of Texas of the Permian Basin,TX,8667,Urban,97500,Odessa,Texas,South,1973,TX,Public,17,8667,7278,3631333,95,91
+494,St. Joseph's College (NY),NY,5901,Urban,100900,Brooklyn,New York,Northeast,1916,NY,Private not-for-profit,12,5901,4429,11919881,99,99
+495,Moravian University,PA,2961,Urban,109800,Bethlehem,Pennsylvania,Northeast,1742,PA,Private not-for-profit,11,2961,2268,12685943,100,100
+496,Lawrence Technological University,MI,3163,Urban,119900,Southfield,Michigan,Midwest,,MI,Private not-for-profit,11,3163,2286,5639254,97,96
+497,Saint Martin's University,WA,1980,Urban,102100,Lacey,Washington,West,,WA,Private not-for-profit,12,1980,1644,9759540,99,99
+498,University of Memphis,TN,25128,Urban,90700,Memphis,Tennessee,South,1912,TN,Public,16,25128,20011,27575189,98,97
